@@ -1,5 +1,6 @@
 {
-  "name": "portfolio-app",
+  "name": "dev-portfolio",
+  "homepage": "https://fernandez-rosas.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
