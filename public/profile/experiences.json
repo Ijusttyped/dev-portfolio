@@ -1,33 +1,54 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Student Research Assistant",
+            "subtitle": "Fraunhofer Institute for Telecommunications",
+            "workType": "Applied Research",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Applied research on privacy-preserving AI using federated learning and data spaces."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "10/2023 – present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Applications Consultant Lead",
+            "subtitle": "Capgemini Deutschland GmbH",
+            "workType": "IT Consulting",
             "workDescription": [
-                "Worked on abc."
+                "Developed an analytics platform for the board of management to analyse the gender pay gap.",
+                "Automated the classification of company-wide purchase orders with deep learning models.",
+                "Managed the Tableau Server reporting environment in the EMEA, APAC and US regions.",
+                "Reduced the cost of AWS GPU cluster usage.",
+                "Developed machine learning models for the automatic detection of production defects."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "02/2019 – 07/2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Business Intelligence Analyst",
+            "subtitle": "DuMont Media Services GmbH",
+            "workType": "Media",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Project management for the development of a new reporting platform."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "10/2018 – 01/2019"
+        },
+        {
+            "title": "Python Developer",
+            "subtitle": "Fleetpool GmbH",
+            "workType": "Fleet Management",
+            "workDescription": [
+                "Increased the data quality through implementation and enforcement of data quality metrics."
+            ],
+            "dateText": "11/2017 – 03/2018"
+        },
+        {
+            "title": "Student Research Assistant for Data Science",
+            "subtitle": "GESIS - Leibniz Institut für Sozialwissenschaften",
+            "workType": "Research Institute",
+            "workDescription": [
+                "Analyzed and visualized heterogeneous literature metadata.",
+                "Developed machine learning models for deduplication purposes."
+            ],
+            "dateText": "02/2017 – 07/2017"
         }
     ]
 }

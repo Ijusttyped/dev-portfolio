@@ -1,19 +1,22 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Oct 2020 - Jul 2024",
+            "cardTitle": "MSc. Digital Health",
+            "cardSubtitle": "Hasso-Plattner-Institute Potsdam",
+            "cardDetailedText": "Thesis: tba",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/hpi.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Oct 2012 - Dec 2017",
+            "cardTitle": "BSc. Economathematics",
+            "cardSubtitle": "Universtity of Cologne",
+            "cardDetailedText": "Thesis: Application of sparse PCA",
+            "icon" : {
+                "src": "images/education/uni_koeln.png"
+            }
         }
     ]
 }

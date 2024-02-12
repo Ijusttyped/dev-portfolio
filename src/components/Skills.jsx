@@ -9,13 +9,17 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   iconStyle: {
-    height: 75,
-    width: 75,
+    height: 55,
+    width: 55,
     margin: 10,
     marginBottom: 0,
   },
   introTextContainer: {
     whiteSpace: 'pre-wrap',
+  },
+  skillTitle: {
+    marginLeft: '5px',
+    marginRight: '5px',
   },
 };
 
@@ -57,7 +61,7 @@ function Skills(props) {
                         src={item.icon}
                         alt={item.title}
                       />
-                      <p>{item.title}</p>
+                      <p style={styles.skillTitle}>{item.title}</p>
                     </div>
                   ))}
                 </div>

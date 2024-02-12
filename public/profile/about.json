@@ -1,5 +1,4 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
-    
+  "about": "I am Marcel Fernandez Rosas, a ML Engineer and a Digital Health enthusiast.\n\nMy expertise lies in the industrialization and operation of data-driven solutions and machine learning products.\nCurrently my work is based at the Fraunhofer Institute HHI, where I research and develop privacy-preserving ML solutions for the healthcare sector.\nIn addition, I am actively involved in research in the field of generative AI in medical imaging as part of my master's degree at the Hasso-Plattner-Institute Potsdam.\n\nOutside of my academic and professional pursuits, I am a passionate endurance athlete and bike traveler. I cycled from Cologne to Málaga and circled the Baltic Sea from Berlin. Connecting with nature, myself and people from many different countries makes every trip a special experience.",
+  "imageSource": "images/about/LinkedInProfile.png"
 }
