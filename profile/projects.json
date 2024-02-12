@@ -1,0 +1,50 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/compensation.jpg",
+            "title": "Fair Compensation",
+            "bodyText": "- A showcase for calculating fair salary with machine learning\n - Data versioning and training pipeline with DVC\n - CI/CD pipeline with automatic test execution and model deployment\n - Frontend with React and backend with FastAPI",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ijusttyped/fair-compensation-backend"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://ijusttyped.github.io/fair-compensation-frontend"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Docker",
+                "React",
+                "machine-learning",
+                "DVC",
+                "CI/CD"
+            ]
+        },
+        {
+            "image" : "images/projects/segmentation.jpg",
+            "title": "Medical Image Segmentation",
+            "bodyText": "- A simulation framework for benchmarking active learning strategies for 3D medical image segmentation\n - Fully reproducible experiments: seeded random processes and only deterministic operations\n - Weights & Biases integration",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HealthML/active-segmentation"
+                },
+                {
+                    "text": "Paper",
+                    "href": "https://arxiv.org/abs/2207.00845"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Pytorch",
+                "deep-learning",
+                "medical-imaging",
+                "active-learning",
+                "semantic-segmentation"
+            ]
+        }
+    ]
+}

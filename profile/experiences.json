@@ -1,0 +1,54 @@
+{
+    "experiences": [
+        {
+            "title": "Student Research Assistant",
+            "subtitle": "Fraunhofer Institute for Telecommunications",
+            "workType": "Applied Research",
+            "workDescription": [
+                "Applied research on privacy-preserving AI using federated learning and data spaces."
+            ],
+            "dateText": "10/2023 – present"
+        },
+        {
+            "title": "Applications Consultant Lead",
+            "subtitle": "Capgemini Deutschland GmbH",
+            "workType": "IT Consulting",
+            "workDescription": [
+                "Developed an analytics platform for the board of management to analyse the gender pay gap.",
+                "Automated the classification of company-wide purchase orders with deep learning models.",
+                "Managed the Tableau Server reporting environment in the EMEA, APAC and US regions.",
+                "Reduced the cost of AWS GPU cluster usage.",
+                "Developed machine learning models for the automatic detection of production defects."
+            ],
+            "dateText": "02/2019 – 07/2022"
+        },
+        {
+            "title": "Business Intelligence Analyst",
+            "subtitle": "DuMont Media Services GmbH",
+            "workType": "Media",
+            "workDescription": [
+                "Project management for the development of a new reporting platform."
+            ],
+            "dateText": "10/2018 – 01/2019"
+        },
+        {
+            "title": "Python Developer",
+            "subtitle": "Fleetpool GmbH",
+            "workType": "Fleet Management",
+            "workDescription": [
+                "Increased the data quality through implementation and enforcement of data quality metrics."
+            ],
+            "dateText": "11/2017 – 03/2018"
+        },
+        {
+            "title": "Student Research Assistant for Data Science",
+            "subtitle": "GESIS - Leibniz Institut für Sozialwissenschaften",
+            "workType": "Research Institute",
+            "workDescription": [
+                "Analyzed and visualized heterogeneous literature metadata.",
+                "Developed machine learning models for deduplication purposes."
+            ],
+            "dateText": "02/2017 – 07/2017"
+        }
+    ]
+}

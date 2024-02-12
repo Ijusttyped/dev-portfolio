@@ -1,0 +1,83 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages and technologies I have worked with:",
+    "skills": [{
+     
+            "title": "Backend Development",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/golang.png",
+                    "title": "Go"
+                }
+        ]},
+        {
+            "title": "Data & ML Pipelines",
+            "items" : [
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/kubeflow.png",
+                    "title": "Kubeflow"
+                },
+                {
+                    "icon": "images/skills/tableau.png",
+                    "title": "Tableau Server"
+                },
+                {
+                    "icon": "images/skills/terraform.png",
+                    "title": "Terraform"
+                },
+                {
+                    "icon": "images/skills/dbt.png",
+                    "title": "DBT"
+                }
+            ]
+        },
+        {
+            "title" : "Front End Development",
+            "items": [
+                {
+                    "icon": "images/skills/tableau.png",
+                    "title": "Tableau Desktop"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "ReactJS"
+                }
+            ]
+    },
+        {
+            "title" : "Professional Skills",
+            "items": [
+                {
+                    "icon": "images/skills/scrum.png",
+                    "title": "Scrum"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Project Planning"
+                },
+                {
+                    "icon": "images/skills/design_thinking.png",
+                    "title": "Design Thinking"
+                }
+            ]
+        }
+]}

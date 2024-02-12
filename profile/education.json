@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Oct 2020 - Jul 2024",
+            "cardTitle": "MSc. Digital Health",
+            "cardSubtitle": "Hasso-Plattner-Institute Potsdam",
+            "cardDetailedText": "Thesis: tba",
+            "icon" : {
+                "src": "images/education/hpi.png"
+            }
+        },
+        {
+            "title": "Oct 2012 - Dec 2017",
+            "cardTitle": "BSc. Economathematics",
+            "cardSubtitle": "Universtity of Cologne",
+            "cardDetailedText": "Thesis: Application of sparse PCA",
+            "icon" : {
+                "src": "images/education/uni_koeln.png"
+            }
+        }
+    ]
+}
